@@ -3,7 +3,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "facebook",
+			"NetworkAds": "cpa",
 
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -15,7 +15,7 @@
 
 			"StartappAds": "211203742",
 
-			"Cpa": true,
+			"Cpa": false,
 			"ImageUrl": "https://i.ibb.co/ngMg1wh/3awNukl.jpg",
 			"LinkCpa1": "https://cpbldi.com/911232e",
 			"LinkCpa2": "https://google.com/",
@@ -30,7 +30,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "facebook",
+			"NetworkAds": "admob",
 
 			"BannerAdmob": "ca-app-pub-8082149907872048/3898325980",
 			"InterstitialAdmob": "ca-app-pub-8082149907872048/8781442418",
