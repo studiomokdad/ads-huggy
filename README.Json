@@ -15,7 +15,7 @@
 
 			"StartappAds": "211203742",
 
-			"Cpa": false,
+			"Cpa": true,
 			"ImageUrl": "https://i.postimg.cc/WbS6b4sH/netflix-intro-netflix.gif",
 			"LinkCpa1": "https://cpbldi.com/911232e",
 			"LinkCpa2": "https://google.com/",
@@ -30,7 +30,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "admob",
+			"NetworkAds": "cpa",
 
 			"BannerAdmob": "ca-app-pub-8082149907872048/3898325980",
 			"InterstitialAdmob": "ca-app-pub-8082149907872048/8781442418",
